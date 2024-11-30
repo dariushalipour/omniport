@@ -1,9 +1,9 @@
 {
-  "name": "porter",
+  "name": "omniport",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dariushalipour/porter.git"
+    "url": "git+https://github.com/dariushalipour/omniport.git"
   },
   "main": "index.js",
   "scripts": {
