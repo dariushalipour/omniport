@@ -1,0 +1,16 @@
+{
+  "name": "porter",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariushalipour/porter.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dariush Alipour<drsh.alipour@gmail.com>",
+  "license": "GNU General Public License v3.0",
+  "description": ""
+}
